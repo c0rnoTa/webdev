@@ -1,2 +1,5 @@
 .idea
-docker/app/*
+docker/app/src/*
+!docker/app/src/.gitkeep
+docker/mysql/data/*
+!docker/mysql/data/.gitkeep
